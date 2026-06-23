@@ -1,0 +1,9 @@
+# Core dependency: Clingo Answer Set Programming solver
+# Install via: pip install clingo  (requires gringo system package on Linux)
+clingo>=5.8.0
+
+# Numerical computing
+numpy>=1.21.0
+
+# Visualization (for paper figures)
+matplotlib>=3.5.0

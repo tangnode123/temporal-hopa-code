@@ -1,0 +1,239 @@
+{
+  "config": "M_4x8_T2",
+  "summary": {
+    "t=0": {
+      "n": 5,
+      "sat_count": 0,
+      "errors": 0,
+      "t_mean": 1.257,
+      "t_median": 1.128,
+      "t_min": 0.829,
+      "t_max": 1.773,
+      "gnd_mean": 1.228,
+      "sol_mean": 0.029,
+      "rules_mean": 20490,
+      "atoms_mean": 0,
+      "d_ng_mean": 5270,
+      "t_std": 0.377
+    },
+    "t=1": {
+      "n": 5,
+      "sat_count": 0,
+      "errors": 0,
+      "t_mean": 1.793,
+      "t_median": 1.626,
+      "t_min": 1.171,
+      "t_max": 2.613,
+      "gnd_mean": 1.644,
+      "sol_mean": 0.149,
+      "rules_mean": 170710,
+      "atoms_mean": 12508,
+      "d_ng_mean": 33299,
+      "t_std": 0.564
+    },
+    "t=2": {
+      "n": 5,
+      "sat_count": 0,
+      "errors": 0,
+      "t_mean": 4.961,
+      "t_median": 4.364,
+      "t_min": 3.554,
+      "t_max": 6.937,
+      "gnd_mean": 4.441,
+      "sol_mean": 0.52,
+      "rules_mean": 434295,
+      "atoms_mean": 12508,
+      "d_ng_mean": 296884,
+      "t_std": 1.325
+    }
+  },
+  "raw": {
+    "t=0": [
+      {
+        "seed": 0,
+        "sat": false,
+        "total_time": 0.8288495540618896,
+        "ground_time": 0.750993013381958,
+        "solve_time": 0.07785654067993164,
+        "atoms": 0,
+        "rules": 17932,
+        "vel_nogoods": 80791,
+        "dist_nogoods": 165,
+        "error": ""
+      },
+      {
+        "seed": 1,
+        "sat": false,
+        "total_time": 1.5029489994049072,
+        "ground_time": 1.4859704971313477,
+        "solve_time": 0.01697850227355957,
+        "atoms": 0,
+        "rules": 21122,
+        "vel_nogoods": 137354,
+        "dist_nogoods": 12525,
+        "error": ""
+      },
+      {
+        "seed": 2,
+        "sat": false,
+        "total_time": 1.12813138961792,
+        "ground_time": 1.11293363571167,
+        "solve_time": 0.01519775390625,
+        "atoms": 0,
+        "rules": 19792,
+        "vel_nogoods": 107895,
+        "dist_nogoods": 7518,
+        "error": ""
+      },
+      {
+        "seed": 3,
+        "sat": false,
+        "total_time": 1.052666425704956,
+        "ground_time": 1.038346290588379,
+        "solve_time": 0.014320135116577148,
+        "atoms": 0,
+        "rules": 19732,
+        "vel_nogoods": 103191,
+        "dist_nogoods": 4385,
+        "error": ""
+      },
+      {
+        "seed": 4,
+        "sat": false,
+        "total_time": 1.7732129096984863,
+        "ground_time": 1.7537109851837158,
+        "solve_time": 0.019501924514770508,
+        "atoms": 0,
+        "rules": 23872,
+        "vel_nogoods": 175637,
+        "dist_nogoods": 1756,
+        "error": ""
+      }
+    ],
+    "t=1": [
+      {
+        "seed": 0,
+        "sat": false,
+        "total_time": 1.1713783740997314,
+        "ground_time": 1.0712542533874512,
+        "solve_time": 0.10012412071228027,
+        "atoms": 10968,
+        "rules": 114250,
+        "vel_nogoods": 80791,
+        "dist_nogoods": 19068,
+        "error": ""
+      },
+      {
+        "seed": 1,
+        "sat": false,
+        "total_time": 2.0824246406555176,
+        "ground_time": 1.907716989517212,
+        "solve_time": 0.17470765113830566,
+        "atoms": 12888,
+        "rules": 198238,
+        "vel_nogoods": 137354,
+        "dist_nogoods": 43941,
+        "error": ""
+      },
+      {
+        "seed": 2,
+        "sat": false,
+        "total_time": 1.6258246898651123,
+        "ground_time": 1.4929499626159668,
+        "solve_time": 0.1328747272491455,
+        "atoms": 12088,
+        "rules": 154630,
+        "vel_nogoods": 107895,
+        "dist_nogoods": 30856,
+        "error": ""
+      },
+      {
+        "seed": 3,
+        "sat": false,
+        "total_time": 1.474313735961914,
+        "ground_time": 1.3570458889007568,
+        "solve_time": 0.11726784706115723,
+        "atoms": 12054,
+        "rules": 143218,
+        "vel_nogoods": 103191,
+        "dist_nogoods": 24196,
+        "error": ""
+      },
+      {
+        "seed": 4,
+        "sat": false,
+        "total_time": 2.613006591796875,
+        "ground_time": 2.3904895782470703,
+        "solve_time": 0.2225170135498047,
+        "atoms": 14543,
+        "rules": 243212,
+        "vel_nogoods": 175637,
+        "dist_nogoods": 48432,
+        "error": ""
+      }
+    ],
+    "t=2": [
+      {
+        "seed": 0,
+        "sat": false,
+        "total_time": 3.5535316467285156,
+        "ground_time": 3.0157406330108643,
+        "solve_time": 0.5377910137176514,
+        "atoms": 10968,
+        "rules": 307882,
+        "vel_nogoods": 80791,
+        "dist_nogoods": 212700,
+        "error": ""
+      },
+      {
+        "seed": 1,
+        "sat": false,
+        "total_time": 5.600823879241943,
+        "ground_time": 5.2029242515563965,
+        "solve_time": 0.3978996276855469,
+        "atoms": 12888,
+        "rules": 479231,
+        "vel_nogoods": 137354,
+        "dist_nogoods": 324934,
+        "error": ""
+      },
+      {
+        "seed": 2,
+        "sat": false,
+        "total_time": 4.3644115924835205,
+        "ground_time": 4.045552730560303,
+        "solve_time": 0.3188588619232178,
+        "atoms": 12088,
+        "rules": 393663,
+        "vel_nogoods": 107895,
+        "dist_nogoods": 269889,
+        "error": ""
+      },
+      {
+        "seed": 3,
+        "sat": false,
+        "total_time": 4.350173473358154,
+        "ground_time": 4.028755187988281,
+        "solve_time": 0.32141828536987305,
+        "atoms": 12054,
+        "rules": 396352,
+        "vel_nogoods": 103191,
+        "dist_nogoods": 277330,
+        "error": ""
+      },
+      {
+        "seed": 4,
+        "sat": false,
+        "total_time": 6.936770439147949,
+        "ground_time": 5.91436243057251,
+        "solve_time": 1.0224080085754395,
+        "atoms": 14543,
+        "rules": 594347,
+        "vel_nogoods": 175637,
+        "dist_nogoods": 399567,
+        "error": ""
+      }
+    ]
+  },
+  "elapsed": 67.7
+}
