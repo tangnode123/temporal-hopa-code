@@ -1,6 +1,6 @@
 # Temporal-HOPA: Dynamic 3D Spatial-Temporal Constraint Reasoning with Answer Set Programming
 
-This repository accompanies the paper **"Temporal-HOPA: Dynamic 3D Spatial-Temporal Constraint Reasoning with Answer Set Programming"** (submitted to *Journal of Spatial Science*, Taylor & Francis).
+This repository accompanies the paper **"Temporal-HOPA: Dynamic 3D Spatial-Temporal Constraint Reasoning with Answer Set Programming"** .
 
 Temporal-HOPA (T-HOPA) extends ASP-based qualitative spatial reasoning to dynamic 3D domains. The framework combines direction, distance, and temporal motion dynamics (speed, acceleration, turn rate) within a single grounded constraint network, solved via Answer Set Programming (Clingo 5.8) with a **pre-computed candidate strategy** that avoids the grounding explosion typical of arithmetic-rich spatial ASP encodings.
 
